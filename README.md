@@ -8,7 +8,8 @@ In the context of physics, particularly projectile motion, the trajectory of a p
 # Calculation with maths
 Calculating the trajectory of an object involves predicting its path through space over time. This is a common concept in physics and is often used in various fields, such as physics, engineering, astronomy, and ballistics. The trajectory of an object can be influenced by factors like initial velocity, launch angle, air resistance, and gravitational forces.
 
-![screenshot_2022-02-03_0556085915295007698843667](https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/a916b4a8-7983-4f1b-bae7-92d0ade20d69)
+One of the main formulas that I used is: d = x+ u*t+1/2*g*t^2
+(impleneted: point.y = pos.y + startVelocity.y * time + (Physics.gravity.y * time * time)/2;)
 
 # Calculation with/in Unity
 While researching about how I would implement those calculations in Unity, I've read that Unity has already inbuild functions to do this. How nice! But that was too simple...
