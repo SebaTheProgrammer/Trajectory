@@ -54,6 +54,8 @@ After this assignment I would 2 main things different:
 * choosing the right engine
 * choosing something more complex, eventho I know already how it works.
 
+Still I'm happy about this learning curve.
+
 
 # Source
 
