@@ -50,6 +50,10 @@ This is also important. I learned a lot, new stuff about Unity, how trajectory a
 But one of the main things that I would've done different, is thinking about which engine is better for what I need. 
 In Game Mechanics I loved working with Unity because there was so much 'new' stuff for me to find out. (I always worked in UE4-5 before.) So I was happy we could choose it ourself.
 
+After this assignment I would 2 main things different:
+* choosing the right engine
+* choosing something more complex, eventho I know already how it works.
+
 
 # Source
 
