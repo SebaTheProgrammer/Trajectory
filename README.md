@@ -18,16 +18,16 @@ Implemented:
 
 <img width="517" alt="Screenshot 2024-01-06 164952" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/e0913bd7-c83b-4ea1-9dbf-fa059b791d2b">
 
-
-
 # Calculation with/in Unity
 While researching about how I would implement those calculations in Unity, I've read that Unity has already inbuild functions to do this. How nice! But was that too simple?
 
-# Source<img width="629" alt="Screenshot 2024-01-06 172217" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/45c0aefb-686a-456f-9217-901cf3855f2d">
+<img width="629" alt="Screenshot 2024-01-06 172217" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/45c0aefb-686a-456f-9217-901cf3855f2d">
 
 Like here above, I started with a ghost ball. Just an invisible ball that creates an extra physics scene. (Needed for those calculations).
 
 <img width="482" alt="Screenshot 2024-01-06 172232" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/20477a72-4acf-472b-8cdd-da0685db8fc8">
+
+# Source
 
 * https://en.wikipedia.org/wiki/Trajectory#:~:text=A%20trajectory%20or%20flight%20path,by%20position%20and%20momentum%2C%20simultaneously
 * https://phys.libretexts.org/Bookshelves/University_Physics/Physics_(Boundless)/3%3A_Two-Dimensional_Kinematics/3.3%3A_Projectile_Motion
