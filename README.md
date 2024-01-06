@@ -18,8 +18,6 @@ Implemented:
 
 <img width="517" alt="Screenshot 2024-01-06 164952" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/e0913bd7-c83b-4ea1-9dbf-fa059b791d2b">
 
-But this is just for a normal calculation, without any bounces. So how do we do that?
-
 
 
 # Calculation with/in Unity
