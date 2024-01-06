@@ -1,5 +1,5 @@
 # Calculating Trajectory Line
-Exam Assignment - Research Topic: Trajectory
+Exam Assignment - Research Topic: Trajectory Line
 
 Calculating the trajectory of an object involves predicting its path through space over time. This is a common concept in physics and is often used in various fields, such as physics, engineering, astronomy, and ballistics. The trajectory of an object can be influenced by factors like initial velocity, launch angle, air resistance, and gravitational forces. Here's a general overview of how you might calculate the trajectory line.
 
