@@ -29,6 +29,8 @@ Like here above, I started with a ghost ball. Just an invisible ball that create
 
 # Implementing in Unity
 
+As you can see, it's simpler do it in on paper then in Unity. Here I had hundreds of ball, with no trajectory lines.
+
 <img width="913" alt="Screenshot 2024-01-06 171322" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/820fb9f4-1088-40ef-84b6-3d3207b398ac">
 
 # Source
