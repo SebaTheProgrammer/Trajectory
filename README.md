@@ -10,6 +10,7 @@ Calculating the trajectory of an object involves predicting its path through spa
 
 One of the main formulas that I used is: d = x+ u*t+1/2*g*t^2
 (Impleneted: point.y = pos.y + startVelocity.y * time + (Physics.gravity.y * time * time)/2;)
+But this is just for a normal calculation, without any bounces.
 
 # Calculation with/in Unity
 While researching about how I would implement those calculations in Unity, I've read that Unity has already inbuild functions to do this. How nice! But that was too simple...
