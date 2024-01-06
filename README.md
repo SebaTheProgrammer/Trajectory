@@ -45,6 +45,9 @@ Well, I have no idea. On paper it's easy, but in Unity it is different.
 
 # End Result
 
+![Untitled video - Made with Clipchamp (2)](https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/b8010051-f108-445a-8172-1060f91919b3)
+
+
 # Self Reflection
 This is also important. I learned a lot, new stuff about Unity, how trajectory actually works, code optimasation, and more.
 But one of the main things that I would've done different, is thinking about which engine is better for what I need. 
