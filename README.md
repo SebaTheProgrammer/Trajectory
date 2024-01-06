@@ -8,8 +8,6 @@ Here is a simple example of how it works.
 
 ![Ideal_projectile_motion_for_different_angles svg](https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/52aa4b02-f13d-4bc3-a652-1ff296c70d42)
 
-![Figure_03_04_05a](https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/79dcda9c-a632-436a-91c1-dd4469235330)
-
 # Calculation with Unity
 While researching about how I would implement those calculations in Unity, I've read that Unity has already inbuild functions to do this. How nice! But was that too simple?
 
