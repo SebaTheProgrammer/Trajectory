@@ -10,7 +10,7 @@ Calculating the trajectory of an object involves predicting its path through spa
 
 ![screenshot_2022-02-03_0556085915295007698843667](https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/a916b4a8-7983-4f1b-bae7-92d0ade20d69)
 
-# Calculation of Unity
+# Calculation with/in Unity
 While researching about how I would implement those calculations in Unity, I've read that Unity has already inbuild functions to do this. How nice! But that was too simple...
 
 # Source
