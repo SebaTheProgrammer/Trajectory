@@ -37,6 +37,9 @@ Implemented:
 
 But this was only for one line, or one bounce.
 
+<img width="177" alt="Screenshot 2024-01-06 175154" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/0088c537-6061-4193-a40b-407e742d180f">
+
+
 # End Result
 
 # Source
