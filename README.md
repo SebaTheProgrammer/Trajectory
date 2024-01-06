@@ -46,6 +46,10 @@ Well, I have no idea. On paper it's easy, but in Unity it is different.
 # End Result
 
 # Self Reflection
+This is also important. I learned a lot, new stuff about Unity, how trajectory actually works, code optimasation, and more.
+But one of the main things that I would've done different, is thinking about which engine is better for what I need. 
+In Game Mechanics I loved working with Unity because there was so much 'new' stuff for me to find out. (I always worked in UE4-5 before.) So I was happy we could choose it ourself.
+
 
 # Source
 
