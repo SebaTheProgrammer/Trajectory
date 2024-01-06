@@ -1,5 +1,7 @@
 # Calculating Trajectory Line
 Exam Assignment - Research Topic: Trajectory
+# Intro
+First of all, what is line trajectory?
 
 # Source
 * https://www.youtube.com/watch?v=cuFd7QaG6Rs&ab_channel=SkyroraLimited
