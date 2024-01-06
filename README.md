@@ -8,6 +8,23 @@ Here is a simple example of how it works.
 
 ![Figure_03_04_05a](https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/79dcda9c-a632-436a-91c1-dd4469235330)
 
+# Calculation with Unity
+While researching about how I would implement those calculations in Unity, I've read that Unity has already inbuild functions to do this. How nice! But was that too simple?
+
+<img width="629" alt="Screenshot 2024-01-06 172217" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/45c0aefb-686a-456f-9217-901cf3855f2d">
+
+Like here above, I started with an extra physics scene. That is needed for those calculations.
+But for the actual trajectory calculations in Unity, I spawn an extra ghost ball every update! Damn! Wonderfull performance :D.
+
+<img width="482" alt="Screenshot 2024-01-06 172232" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/20477a72-4acf-472b-8cdd-da0685db8fc8">
+
+# Implementing in Unity
+
+As you can see, it's simpler do it in on paper then in Unity. Here I had hundreds of ball, with no trajectory lines...
+
+<img width="913" alt="Screenshot 2024-01-06 171322" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/820fb9f4-1088-40ef-84b6-3d3207b398ac">
+
+So due to the low performance and Unity that is strange, this is not the way to go. So I tried my own way.
 
 # Calculation with maths
 Calculating the trajectory of an object involves predicting its path through space over time. This is a common concept in physics and is often used in various fields, such as physics, engineering, astronomy, and ballistics. The trajectory of an object can be influenced by factors like initial velocity, launch angle, air resistance, and gravitational forces.
@@ -17,23 +34,6 @@ One of the main formulas that I used is: d = x+ u*t+1/2*g*t^2
 Implemented:
 
 <img width="517" alt="Screenshot 2024-01-06 164952" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/e0913bd7-c83b-4ea1-9dbf-fa059b791d2b">
-
-# Calculation with Unity
-While researching about how I would implement those calculations in Unity, I've read that Unity has already inbuild functions to do this. How nice! But was that too simple?
-
-<img width="629" alt="Screenshot 2024-01-06 172217" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/45c0aefb-686a-456f-9217-901cf3855f2d">
-
-Like here above, I started with an extra physics scene. That is needed for those calculations.
-But for the actual trajectory calculations in Unity, I spawn an extra ghost ball every update! Damn! Wonderfull performance :D.
-That is not the way to go. So I tried my own way.
-
-<img width="482" alt="Screenshot 2024-01-06 172232" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/20477a72-4acf-472b-8cdd-da0685db8fc8">
-
-# Implementing in Unity
-
-As you can see, it's simpler do it in on paper then in Unity. Here I had hundreds of ball, with no trajectory lines.
-
-<img width="913" alt="Screenshot 2024-01-06 171322" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/820fb9f4-1088-40ef-84b6-3d3207b398ac">
 
 # Source
 
