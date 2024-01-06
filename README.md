@@ -23,7 +23,8 @@ While researching about how I would implement those calculations in Unity, I've 
 
 <img width="629" alt="Screenshot 2024-01-06 172217" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/45c0aefb-686a-456f-9217-901cf3855f2d">
 
-Like here above, I started with a ghost ball. Just an invisible ball that creates an extra physics scene. (Needed for those calculations).
+Like here above, I started with an extra physics scene. That is needed for those calculations.
+But for the actual trajectory calculations in Unity, I spawn an extra ghost ball!
 
 <img width="482" alt="Screenshot 2024-01-06 172232" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/20477a72-4acf-472b-8cdd-da0685db8fc8">
 
