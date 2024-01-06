@@ -6,6 +6,8 @@ First of all, what is line trajectory?
 In the context of physics, particularly projectile motion, the trajectory of a projectile (like a thrown ball or a launched projectile) is often described as a curved path. However, if we focus on a specific plane, such as the horizontal plane, the trajectory can be represented as a line. This line represents the path the object would follow if there were no external forces acting on it, like air resistance.
 Here is a simple example of how it works.
 
+![Ideal_projectile_motion_for_different_angles svg](https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/52aa4b02-f13d-4bc3-a652-1ff296c70d42)
+
 ![Figure_03_04_05a](https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/79dcda9c-a632-436a-91c1-dd4469235330)
 
 # Calculation with Unity
