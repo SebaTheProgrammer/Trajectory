@@ -4,6 +4,8 @@ Exam Assignment - Research Topic: Trajectory Line
 # Intro
 First of all, what is line trajectory?
 In the context of physics, particularly projectile motion, the trajectory of a projectile (like a thrown ball or a launched projectile) is often described as a curved path. However, if we focus on a specific plane, such as the horizontal plane, the trajectory can be represented as a line. This line represents the path the object would follow if there were no external forces acting on it, like air resistance.
+![unnamed](https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/b32ce092-6ef9-44c1-ac58-be4fad45dad4)
+
 
 # Calculation with maths
 Calculating the trajectory of an object involves predicting its path through space over time. This is a common concept in physics and is often used in various fields, such as physics, engineering, astronomy, and ballistics. The trajectory of an object can be influenced by factors like initial velocity, launch angle, air resistance, and gravitational forces.
