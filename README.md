@@ -39,7 +39,7 @@ But this was only for one line, or one bounce.
 
 <img width="177" alt="Screenshot 2024-01-06 175154" src="https://github.com/SebaTheProgrammer/Trajectory/assets/119673781/0088c537-6061-4193-a40b-407e742d180f">
 
-This was also not the answer, but I was close. 
+This was also not the answer. I was so close. 
 I look into the Unity engine if those lines had a collision/overlapping event. Sadly, this wasn't the case. Then how could I ever know/check when the ball collides with an object?
 Well, I have no idea. On paper it's easy, but in Unity it is different. I can fix it by using Unity's way so that is also my result.
 
