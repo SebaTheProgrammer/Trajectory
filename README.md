@@ -1,5 +1,5 @@
 # Calculating Trajectory Line
-Exam Assignment - Research Topic: Trajectory Line
+Exam Assignment - Research Topic: Trajectory Line by Vryens Sebastiaan
 
 # Intro
 First of all, what is line trajectory?
